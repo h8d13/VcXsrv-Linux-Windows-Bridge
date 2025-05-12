@@ -23,7 +23,7 @@ You can then launch any app like you would normally.
 
 ![X11DIRECTACCESS](https://github.com/h8d13/LSK---Linux-Starter-Kit/blob/main/media/capcap.PNG)
 
-Alternatively: RustDesk works good. 
+Alternatively: RustDesk works good and has .exe files for windows
 
 I also found this gist which seems to be able to use the standard RDP from Windows: https://gist.github.com/valorad/7fd3e4a7fb4481f1eb77ded42a72537d
 But it's too much work for what it is. 
