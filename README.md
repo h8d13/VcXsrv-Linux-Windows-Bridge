@@ -21,4 +21,4 @@ export XAUTHORITY=$HOME/.Xauthority
 
 You can then launch any app like you would normally. 
 
-![X11DIRECTACCESS](https://github.com/h8d13/LSK---Linux-Starter-Kit/media/capcap.PNG)
+![X11DIRECTACCESS](https://github.com/h8d13/LSK---Linux-Starter-Kit/blob/main/media/capcap.PNG)
