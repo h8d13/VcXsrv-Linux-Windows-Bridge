@@ -1,7 +1,6 @@
 # VcXsrv-Linux-Windows-Bridge
 
 ## Step 1: SSH
-
 ```
 #pacman -S openssh
 #ufw allow 22 && ufw limit ssh
