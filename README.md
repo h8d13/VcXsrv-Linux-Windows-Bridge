@@ -8,7 +8,8 @@
 #systemctl start sshd
 ```
 
-Regular ssh into your user. `ssh user@ip`
+Regular ssh into your user. `ssh user@ip` Check it works all good. 
+
 [Download VcXSrv](https://vcxsrv.com/)
 
 ## Step 2: SSH X
